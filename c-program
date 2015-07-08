@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	printf("contains random text. ignore this.");
+	printf("\nYoure not listening!!\n");
+return 0;
+}
